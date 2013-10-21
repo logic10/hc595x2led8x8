@@ -9,7 +9,7 @@ http://www.protostack.com/blog/2010/05/introduction-to-74hc595-shift-register-co
 http://embedded-lab.com/?p=2478
 http://embedded-lab.com/blog/?p=2661
 
-*/
+*/ 
 
 #define PIN_LATCH       8        // ST_CP         IC PIN12
 #define PIN_DATA        9        // DATA or DS    IC PIN14
